@@ -1,0 +1,8 @@
+pain dead = 0;
+pain exp;
+
+iter (pain willbe = 1; dead < 10000; willbe = exp + willbe) {
+  cry dead;
+  exp = dead;
+  dead = willbe;
+}

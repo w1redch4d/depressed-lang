@@ -1,0 +1,9 @@
+depression kill_yourself(a,b)
+{
+	if(!a)
+		return "Dont Die!";
+	else
+		return "Die!";
+}
+
+cry kill_yourself(1,0);
