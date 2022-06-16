@@ -1,7 +1,7 @@
 ## Motivation
 This is language is made with the reference from the book  [Crafting Interpreters](https://www.craftinginterpreters.com/) and is also possible thanks to my depression
 
-## Exaamples 
+## Examples 
 examples are there in examples folder [examples](https://github.com/UwUeeb/depressed-lang/tree/master/examples)
 
 ## Contributions
